@@ -1,0 +1,37 @@
+{
+    "proxyServer": {
+        "http": "socks5://127.0.0.1:12450",
+        "https": "socks5://127.0.0.1:12450"
+    },
+    "waitTime": 0,
+    "retry": 0,
+    "domains": [
+        {
+            "domain": "https://www.baidu.com",
+            "checkin_url": "https://www.baidu.com/plugin.php",
+            "proxy": false,
+            "method": "get",
+            "param": {
+                "userid":"xiaoming",
+                "cookies":"",
+                "form_data": {
+                    "id": "dsu_paulsign:sign"
+                }
+            }
+        },
+        {
+            "domain": "https://www.google.com",
+            "checkin_url": "https://www.baidu.com/plugin.php",
+            "proxy": false,
+            "method": "post",
+            "param": {
+                "userid":"xiaoming",
+                "cookies":"",
+                "form_data": {
+                    "id": "dsu_paulsign:sign",
+                    "formhash": "123abcd"
+                }
+            }
+        }
+    ]
+}
