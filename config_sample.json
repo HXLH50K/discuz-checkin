@@ -1,0 +1,47 @@
+{
+  "proxyServer": {
+    "http": "socks5://127.0.0.1:12450",
+    "https": "socks5://127.0.0.1:12450(待修改，可以忽视)"
+  },
+  "waitTime": 0,
+  "retry": 0,
+  "ft_key": "abcd1234(在 https://sct.ftqq.com/ 申请)",
+  "domains": [
+    {
+      "domain": "https://www.ABCD.net",
+      "checkin_url": "https://www.ABCD.net/plugin.php",
+      "proxy": false,
+      "method": "post",
+      "param": {
+        "userid": "xiaoming(助记，可不填)",
+        "cookies": "xxxxxxx",
+        "query_string_parameters": {
+          "id": "dsu_paulsign:sign",
+          "operation": "qiandao",
+          "infloat": "1(这里用int或string都可以)",
+          "inajax": "1"
+        },
+        "form_data": {
+          "formhash": "123aaac5",
+          "qdxq": "ym",
+          "qdmode": "3",
+          "todaysay": "",
+          "fastreply": "1"
+        }
+      }
+    },
+    {
+      "domain": "https://CCCC.xyz",
+      "checkin_url": "https://CCCC.xyz/plugin.php",
+      "proxy": true,
+      "method": "get",
+      "param": {
+        "userid": "daming",
+        "cookies": "xxxxxxxx",
+        "query_string_parameters": {
+          "id": "k_misign:sign"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+2022-02-24 22:35:32 - ERROR - 签到失败 URL: www.tsdm39.net, cookies或formhash过期
+2022-02-24 22:38:03 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-02-24 22:39:37 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-02-24 22:41:02 - INFO - 已经签到 URL: www.tsdm39.net
+2022-02-24 22:41:58 - INFO - 签到成功 URL: xxsy.su
+2022-07-12 16:44:56 - INFO - 已经签到 URL: www.tsdm39.net
+2022-07-12 16:45:03 - ERROR - 签到失败 URL: www.2cycd.com, cookies或formhash过期
+2022-07-12 22:08:20 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-12 22:12:17 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-12 22:17:19 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-12 22:19:38 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-12 22:43:09 - ERROR - HTTPSConnectionPool(host='zodgame.xyz', port=443): Max retries exceeded with url: /plugin.php?id=dsu_paulsign:sign&operation=qiandao&infloat=1&inajax=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025F845CE790>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2022-07-12 22:43:09 - ERROR - 签到失败 URL: zodgame.xyz, 未知错误
+2022-07-12 22:45:05 - ERROR - HTTPSConnectionPool(host='zodgame.xyz', port=443): Max retries exceeded with url: /plugin.php?id=dsu_paulsign:sign&operation=qiandao&infloat=1&inajax=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000019A7D8CF400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2022-07-12 22:45:08 - ERROR - 签到失败 URL: zodgame.xyz, 未知错误
+2022-07-12 22:49:15 - ERROR - 签到失败 URL: www.2cycd.com, cookies或formhash过期
+2022-07-12 22:50:17 - ERROR - 签到失败 URL: www.2cycd.com, cookies或formhash过期
+2022-07-12 22:57:35 - ERROR - 签到失败 URL: www.2cycd.com, cookies或formhash过期
+2022-07-12 22:58:10 - ERROR - 签到失败 URL: www.2cycd.com, 未知错误
+2022-07-12 22:58:55 - ERROR - 签到失败 URL: www.2cycd.com, 未知错误
+2022-07-12 23:01:07 - INFO - 签到成功 URL: abyss.sbs
+2022-07-13 22:40:32 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-13 22:41:19 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-13 22:42:32 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-13 22:43:49 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-13 22:44:34 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-13 22:56:16 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-13 23:03:25 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-13 23:05:11 - ERROR - 签到失败 URL: www.tsdm39.net, 未知错误
+2022-07-13 23:11:33 - INFO - 签到成功 URL: abyss.sbs
+2022-07-13 23:12:27 - INFO - 签到成功 URL: www.2cycd.com
+2022-07-13 23:34:50 - INFO - 已经签到 URL: zodgame.xyz
+2022-07-13 23:37:37 - INFO - 签到成功 URL: abyss.sbs
+2022-07-14 08:51:14 - INFO - 签到成功 URL: www.tsdm39.net
+2022-07-14 08:51:48 - INFO - 签到成功 URL: zodgame.xyz
+2022-07-14 08:52:04 - INFO - 签到成功 URL: www.2cycd.com
+2022-07-14 08:52:11 - INFO - 签到成功 URL: abyss.sbs
+2022-07-14 09:00:40 - INFO - 签到成功 URL: abyss.sbs
+2022-07-14 10:28:48 - INFO - 已经签到 URL: www.tsdm39.net
+2022-07-14 10:29:06 - INFO - 已经签到 URL: zodgame.xyz
+2022-07-14 10:29:09 - INFO - 已经签到 URL: www.2cycd.com
+2022-07-14 10:29:14 - INFO - 签到成功 URL: abyss.sbs
