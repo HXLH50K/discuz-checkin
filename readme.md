@@ -15,7 +15,7 @@
     2. request headers中的cookie
     3. query string parameters
     4. form data（get请求没有此项）
-3. 2中会变的为cookie和form data中的formhash。
+3. 上一条中会变的为cookie和form data中的formhash。
 
 ## 其他说明
 1. 代码已重构，去掉了之前没什么用还难调试的一批的多线程。
